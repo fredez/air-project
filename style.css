@@ -4,9 +4,12 @@
 
 
 body{
-    background-color: #e2e2e2     
+    background-color: #ffffff;     
 }
-
+p {
+    color: #666666;
+    background-color: #e2e2e2
+}
 
 /* other colors to use 
 #B14813 - semrush
