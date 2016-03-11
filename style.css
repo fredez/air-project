@@ -6,6 +6,9 @@
 html {
     background-color: #ffffff;     
 }
+h1 {
+    color: red;
+}
 p {
     color: #666666;
     background-color: #e2e2e2
